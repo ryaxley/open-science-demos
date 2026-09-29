@@ -2,7 +2,7 @@
 
 Practical demonstrations of a thesis: **science improves when data arrives with its context** — machine-readable, complete, and clear enough to feed both humans and AI systems.
 
-I'm Only (Richard Yaxley, Ph.D.), a data architect working in open science. Each demo here is a small, finished tool that makes scientific data more trustworthy, reusable, and communicable — manifests, annotations, validations, write-ups. Built in bite-sized pieces, in the open.
+I'm Only (Richard Yaxley, Ph.D.), a data architect working in open science. Each demo here is a small, finished tool that makes scientific data more trustworthy, reusable, and communicable — manifests, annotations, validations, write-ups. Built in bite-sized pieces, in the open. A Meemir project.
 
 ## The thesis
 
