@@ -8,6 +8,8 @@ I'm Only (Richard Yaxley, Ph.D.), a data architect working in open science. Each
 
 Reliability, replicability, and the pace of discovery all bottleneck on the same thing: data without sufficient instruction summaries. Every demo here attacks that bottleneck from a different angle, and every output is held to a simple bar — *would Edward Tufte approve of its clarity?*
 
+The larger bet: when anyone can keep rigorous context for their own data, everyone gets to be a scientist, experimenter, builder, record-keeper, and strategist in their own life — strategic librarians and builders. Clear communication is the guiding principle; if people aren't truly understanding each other, they aren't optimally learning.
+
 ## Demos
 
 | # | Demo | Status | What it shows |
